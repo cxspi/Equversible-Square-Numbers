@@ -20,4 +20,4 @@ After then it plots it. A very interesting pattern appears.
 ### plot_csv.py 
 
 If you want to test this for yourself, download plot_csv.py and numbers.csv (So you won't have to run the entire calculation yourself)
-The plot is set to be in a logarithmic scale as then the geometric pattern is far more clear. 
+The plot is set to be in a logarithmic scale as the geometric pattern is far more visible this way. 
